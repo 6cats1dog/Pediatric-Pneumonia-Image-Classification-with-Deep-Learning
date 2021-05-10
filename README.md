@@ -1,1 +1,1 @@
-# Pediatric Pneumoia Image Classification with Deep Learning
+# Pediatric Pneumonia Image Classification with Deep Learning
