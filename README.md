@@ -29,7 +29,7 @@ The first two, convolution and pooling layers, perform feature extraction, where
 
 ## Conclusion
 
-Our model has 91.6% accuracy and has some error of approximately 8.33%. This means that there were some instances when the patient had pneumonia but was diagnosed as healthy. It was helpful to grayscale and limit the epochs by using early stopping to prevent overfitting of the model.
+Our model has 81.7% accuracy. This means that there were some instances when the patient had pneumonia but was diagnosed as healthy. It was helpful to grayscale and limit the epochs by using early stopping to prevent overfitting of the model.
 
 ## Future Work
 
