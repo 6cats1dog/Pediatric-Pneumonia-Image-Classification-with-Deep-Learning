@@ -6,7 +6,7 @@
 
 ## Business Problem
 
-In this project, the aim is to to build a deep neural network that trains on a large dataset for classification. In this case, we are using x-ray images of pediatric patients to identify whether or not they have pneumonia. The dataset comes from Kermany et al. on Mendeley.
+In this project, the aim is to build a deep neural network that trains on a large dataset for classification. In this case, we are using x-ray images of pediatric patients to identify whether or not they have pneumonia. The dataset comes from Kermany et al. on Mendeley.
 
 ## Context for Project
 
