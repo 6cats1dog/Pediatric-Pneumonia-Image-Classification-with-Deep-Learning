@@ -14,7 +14,7 @@ Pediatric pneumonia is responsible for the deaths of more than 800,000 young chi
 
 ## Dataset
 
-The dataset of images ones from the Large Dataset of Labeled Optical Coherence Tomography (OCT) and Chest X-Ray Images published on 01/06/2018 by contributors Daniel Kermany,Kang Zhang, and Michael Goldbaum. This dataset contains thousands of validated OCT and Chest X-Ray images  described and analyzed in a larger article: "Identifying Medical Diagnoses and Treatable Diseases by Image-Based Deep Learning". The images are split into a training set and a testing set of independent patients.
+The dataset of images is from the Large Dataset of Labeled Optical Coherence Tomography (OCT) and Chest X-Ray Images published on 01/06/2018 by contributors Daniel Kermany,Kang Zhang, and Michael Goldbaum. This dataset contains thousands of validated OCT and Chest X-Ray images  described and analyzed in a larger article: "Identifying Medical Diagnoses and Treatable Diseases by Image-Based Deep Learning". The images are split into a training set and a testing set of independent patients.
 
 ## Method Used - CNN
 
@@ -33,8 +33,8 @@ Our model has 81.7% accuracy. This means that there were some instances when the
 
 ## Future Work
 
-It is important to consider that there may be a potential for human error as well, which would be seen as a misdiagnosis. Work with cross-validating with a team of radiologist and/or pulmonologist would be helpful in making sure that our images where labeled correctly.
+It is important to consider that there may be a potential for human error as well, which would be seen as a misdiagnosis. Work cross-validating with a team of radiologists and/or pulmonologists would be helpful in making sure that our images were labeled correctly.
 
 Future work would benefit from utilizing more data from populations such as adults and the elderly as well as from different parts of the world. This would allow us to generalize the data and increase the accuracy of diagnosis.
 
-This model may be helpful as a primary screening test for patients. Since it has usable accuracy, this could flag a physician to examine the models determination and make the final confirmatory call on the diagnosis.
+This model may be helpful as a primary screening test for patients. Since it has usable accuracy, this could flag a physician to examine the model's determination and make the final confirmatory call on the diagnosis.
